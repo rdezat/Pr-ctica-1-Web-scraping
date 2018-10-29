@@ -1,2 +1,2 @@
-# Pr-ctica-1-Web-scraping
+# Pràctica-1-Web-scraping
 Realització d'un scraping a una pàgina web.
