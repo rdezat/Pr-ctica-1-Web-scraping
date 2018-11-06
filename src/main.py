@@ -15,3 +15,5 @@ pujas = scraper_setdArt.busca_pujas(lotes, url)
 # Estandaditzem les dades
 pujas = scraper_setdArt.estandard_datos(pujas)
 
+# Escrivim les dades a un fitxer csv
+scraper_setdArt.escribir_CSV(pujas)
