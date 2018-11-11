@@ -201,8 +201,9 @@ def estandard_datos(pujas):
         row[3] = valor2
         #print(row[3])
     #print(pujas["valor_estimado"])
-    # Eliminem el simbol "€" de la columna "puja" del Dataframe
+    # Eliminem el simbol "€" de la columna "puja" del Dataframe i esl espais sobrants
     pujas["puja"] = pujas["puja"].str.replace("\u20ac", "")
+    pujas["puja"] = pujas["puja"].str.strip()
     #print(pujas["puja"])
     # Posem nom a la columna que conté l'index dels registres del Dataframe
     pujas.index.name = "index"

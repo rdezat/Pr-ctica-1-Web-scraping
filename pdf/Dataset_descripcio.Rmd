@@ -15,19 +15,17 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
-## Imatge identificativa 
-
-![Subhasta presencial en la prestigiosa casa de subhaste londinenca Sotheby's](./subhasta.jpg)
-
 \newpage
+
+![Subhasta presencial en la prestigiosa casa de subhastes londinenca Sotheby's](./subhasta.jpg)
+
 ## Descripció
 
-El conjunt de dades generat en aquesta pràctica conté l'historial de licitacions actuals de tots els lots en subhasta onlina de la casa de subhastes SetdArt. Les variables recollides són __lot__, __descripció__, __categoria__, __valor estimat__, __licitació__ i __data de licitació__.
+El conjunt de dades generat en aquesta pràctica conté l'historial de licitacions actuals de tots els lots en subhasta online de la casa de subhastes SetdArt. Les variables recollides són __lot__, __descripció__, __categoria__, __valor estimat__, __licitació__ i __data de licitació__.
 
 ## Context
 
-La varietat d'articles a subhasta que posa online SetdArt és molt diversa. Es poden licitar lots referents a joies, pintures de diferents segles, com també, col·leccions úniques de qualsevol temàtica (el pròxim dia 21 de novembre, surt a subhasta el porquet infable de Pink Floyd).
+La varietat d'articles a subhasta que posa online SetdArt és molt diversa. Es poden licitar lots referents a joies, pintures de diferents segles, com també, col·leccions úniques de qualsevol temàtica (el próxim dia 21 de novembre, surt a subhasta el porquet infable de Pink Floyd).
 
 ## Contingut
 
@@ -36,13 +34,13 @@ Per cada lot que es troba a subhasta, es recullen les següents característique
 * **lote**: Número de lot identificatiu.  
 * **descripcion**: Petita descripció de l'obra/es del lot a subhastar.  
 * **categoria**: Categoria en la qual es classifica l'obra/es del lot.  
-* **valor_estimado**: Valor estimat (en €) que els tècnics especialistes assignen a l'obra/es del lot.  
+* **valor_estimado**: Valor estimat (en €) que els técnics especialistes assignen a l'obra/es del lot.  
 * **puja**: Valor de la licitació (en €) feta al lot.  
 * **fecha_puja**: Data en què es va realitzar la licitació.  
 
 ## Agraïments
 
-Totes aquestes dades són recollides dels lots publicats en la web [SetdArt](http://www.setdart.com) i, la seva subhasta es troba iniciada i no finalitzada (o finalitzada en la data d'execució). Per tal de generar el Web-scraper i extreure la informació en les diverses pàgines HTML, s'ha utilitzat el llenguatge de programació Python y de técnicas de *Web Scraping*.
+Totes aquestes dades són recollides dels lots publicats en la web [SetdArt](http://www.setdart.com) i, la seva subhasta es troba iniciada i no finalitzada (o finalitzada en la data d'execució). Per tal de generar el Web-scraper i extreure la informació en les diverses pàgines HTML, s'ha utilitzat el llenguatge de programació Python y de tècniques de *Web Scraping*.
 
 ## Inspiració
 
@@ -50,21 +48,15 @@ El món relacionat amb l'art i la iconografia, sempre ha estat una temàtica que
 
 Per exemple, i degut que setdArt és una de les cases de subhastes d'art més consolidades i innovadores, seria molt útil per realitzar un primer estudi del tipus de lots i els seus valors per una empres emprenedora o, fins i tot, en una possible competidora.
 
-Un altre possible ús podria ser informatiu o periodístic, per exemple, per realitzar una investigació dels tipus de obres d'art més buscades en les cases de subhastes en la ciutat de Barcelona o del grau de consum en aquest tipus d'articles en el nostre pais.
+Un altre possible és podria ser informatiu o periodístic, per exemple, per realitzar una investigació dels tipus de obres d'art més buscades en les cases de subhastes en la ciutat de Barcelona o del grau de consum en aquest tipus d'articles en el nostre pais.
 
 
 ## Llicència
 
-La licencia escogida para la publicaciÃ³n de este conjunto de datos ha sido CC BY-SA 4.0 License. Los
-motivos que han llevado a la elecciÃ³n de esta licencia tienen que ver con la idoneidad de las clÃ¡usulas que
-esta presenta en relaciÃ³n con el trabajo realizado:
-• Se debe proveer el nombre del creador del conjunto de datos generado, indicando los cambios que se han
-realizado. De esta manera, se reconoce el trabajo ajeno y en quÃ© medida se han realizado aportaciones
-en relaciÃ³n con el trabajo original.
-• Se permite un uso comercial. Esto harÃa que incrementen las probabilidades de que una empresa utilice
-los datos generados y realicen trabajos de calidad que reporten cierto reconocimiento al autor original.
-• Las contribuciones realizadas a posteriori sobre el trabajo publicado bajo esta licencia deberÃ¡n distribuirse
-bajo la misma. Esto hace que el trabajo del autor original continÃºe distribuyÃ©ndose bajo los
-tÃ©rminos que Ã©l mismo planteÃ³.
+Per la publicació del nostre conjunt de dades escollim la llicència CC BY-SA 4.0 License. 
+Aquesta elecció es deguda a les caracteístiques particulars d'aquesta llicència de Creative Commons 4.0. A banda de tots els drets bàsics d'aquests tipus de llicències, aquesta incorpora dues característiques més:
+- El beneficiari de la llicència té el dret de copiar, distribuir, exhibir i representar l'obra i fer obres derivades sempre i quan es reconeixi i es citi l'obra de la forma especificada per l'autor o el llicenciant.
+- El beneficiari de la llicènca té el dret de distribuir obres derivades sota una llicència idéntica a la llicència que regula l'obra original.
+
 
 
