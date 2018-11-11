@@ -55,8 +55,9 @@ Un altre possible és podria ser informatiu o periodístic, per exemple, per rea
 
 Per la publicació del nostre conjunt de dades escollim la llicència CC BY-SA 4.0 License. 
 Aquesta elecció es deguda a les caracteístiques particulars d'aquesta llicència de Creative Commons 4.0. A banda de tots els drets bàsics d'aquests tipus de llicències, aquesta incorpora dues característiques més:
-- El beneficiari de la llicència té el dret de copiar, distribuir, exhibir i representar l'obra i fer obres derivades sempre i quan es reconeixi i es citi l'obra de la forma especificada per l'autor o el llicenciant.
-- El beneficiari de la llicènca té el dret de distribuir obres derivades sota una llicència idéntica a la llicència que regula l'obra original.
+
+  - El beneficiari de la llicència té el dret de copiar, distribuir, exhibir i representar l'obra i fer obres derivades sempre i quan es reconeixi i es citi l'obra de la forma especificada per l'autor o el llicenciant.
+  - El beneficiari de la llicènca té el dret de distribuir obres derivades sota una llicència idéntica a la llicència que regula l'obra original.
 
 
 
