@@ -17,11 +17,11 @@ En la carpeta **src** es troben les classes Python amb les quals s'ha realitzat 
 
 ## Respostes
 
-En la carpeta **pdf** es troba el document .pdf amb les respostes demanades en la pràctica sobre el conjunte de dades realitzat.
+En la carpeta **pdf** es troba el document _.pdf_ amb les respostes demanades en la pràctica sobre el conjunte de dades realitzat.
 
 ## Conjunt de dades
 
-En la carpeta **csv** es troba l'arxiu .csv amb el conjunt de dades resultat de l'extracció de dades mitjançant tècniques de Web scraping.
+En la carpeta **csv** es troba l'arxiu _.csv_ amb el conjunt de dades resultat de l'extracció de dades mitjançant tècniques de Web scraping.
 
 ## Recursos
 
