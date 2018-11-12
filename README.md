@@ -10,8 +10,18 @@ La activitat ha estat realitzada de forma individual per **Ricard Deza Tripiana*
 
 ## Codi font
 
+En la carpeta **src** es troben les classes Python amb les quals s'ha realitzat l'extracció de dades:
+
 * **src/main.py**: Indica els passos a realitzar per part del scraper.
 * **src/scraper_setdArt.py**: Conté les funcions necessàries per duu a terme el Web-scraping, per tal de generar el conjunt de dades de l'historial de licitacions a partir de la web [setdart](http://www.setdart.com).
+
+## Respostes
+
+En la carpeta **pdf** es troba el document .pdf amb les respostes demanades en la pràctica sobre el conjunte de dades realitzat.
+
+## Conjunt de dades
+
+En la carpeta **csv** es troba l'arxiu .csv amb el conjunt de dades resultat de l'extracció de dades mitjançant tècniques de Web scraping.
 
 ## Recursos
 
